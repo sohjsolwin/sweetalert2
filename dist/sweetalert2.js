@@ -1357,7 +1357,7 @@
 
   sweetAlert.version = '4.1.9';
 
-  window.sweetAlert = window.swal = sweetAlert;
+  window.sweetAlert = window.swal = window.swal2 = sweetAlert;
 
   /*
   * If library is injected after page has loaded
